@@ -1,4 +1,4 @@
-package co.istad.mvcapp.dao;
+package co.istad.mvcapp.mapper;
 
 import co.istad.mvcapp.dto.CreateProductDto;
 import co.istad.mvcapp.dto.ProductDto;
